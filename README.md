@@ -30,7 +30,7 @@ Deploy Link: aj-quiz.surge.sh
 Repo: https://github.com/jawwad-ali/Expense-Tracker-PWA-02
 Deploy Link: https://aj-pwa-tracker.netlify.app/
 
-9)Quiz Application (PWA)
+9)Quiz App (PWA)
 Repo: https://github.com/jawwad-ali/TypeScript-Quiz
 Deploy Link:https://aj-pwa-quiz.netlify.app/
 
