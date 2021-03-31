@@ -1,11 +1,15 @@
 <h1>Project listing </h1>
-1)Expense Tracker
-Repo: https://github.com/jawwad-ali/Expense-tracker
-Deploy Link: http://expense-tracker-001.surge.sh/
+1)Expense Tracker <br />
+Repo: https://github.com/jawwad-ali/Expense-tracker <br />
+Deploy Link: http://expense-tracker-001.surge.sh/ <br />
 
-2)Covid Tracker App
-Repo: https://github.com/jawwad-ali/Covid19-Tracker
-Deploy Link: http://aj-corona-tracker.surge.sh/
+<br />
+
+2)Covid Tracker App <br />
+Repo: https://github.com/jawwad-ali/Covid19-Tracker <br />
+Deploy Link: http://aj-corona-tracker.surge.sh/ <br />
+
+<br />
 
 3)Shoe Store
 Repo: https://github.com/jawwad-ali/Shoe-Store
