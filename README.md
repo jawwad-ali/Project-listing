@@ -23,7 +23,7 @@ Deploy Link: aj-react-animation.surge.sh <br />
 
 <br />
 
-5) Project 4B <br />
+5)Project 4B <br />
 Repo: https://github.com/jawwad-ali/React-Animation-Project4B <br />
 Deploy Link: aj-animation.surge.sh <br />
 
@@ -124,7 +124,7 @@ Deploy Link: https://aj-airbnb.netlify.app <br />
 
 <br />
 
-22) Slack Clone <br />
+22)Slack Clone <br />
 Repo: https://github.com/jawwad-ali/Slack-clone <br />
 Deploy Link: https://aj-slack.netlify.app <br />
 
