@@ -136,8 +136,8 @@ Deploy Link: https://aj-twitter.netlify.app/ <br />
 
 <br />
 
-24)Sitex Landing page <br />
-Repo: https://github.com/jawwad-ali/Sitex-Landingpage <br />
-Deploy Link: https://aj-sitex.netlify.app <br />
+24)Disney Clone <br />
+Repo: https://github.com/jawwad-ali/disney-clone <br />
+Deploy Link: https://disney-clone-e10ef.web.app/  <br />
 
 
